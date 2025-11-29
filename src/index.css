@@ -273,7 +273,7 @@ text-white
   rounded-2xl
   relative
   p-5
-  w-83
+  w-78
   h-fit
   md:w-80
   lg:w-90
@@ -309,18 +309,17 @@ text-white
   tablet:flex-nowrap
   tablet:justify-between 
   mb-20
-  gap-5
+  gap-1
 }
 .hobbies > div{
   @apply 
   bg-[#00FFFF]
-  pr-3 pl-3 p-2
+  ml-2 mr-1
   text-black
   font-[fruit]
   relative
   w-12 h-12
   z-0
-  mr-1 ml-1
   md:w-50
   md:h-15
   lg:w-60
